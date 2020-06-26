@@ -1,5 +1,3 @@
-// https://reacttraining.com/react-router/web/api/Redirect
-
 import React, { useContext } from "react";
 import { Route, Redirect } from "react-router-dom";
 

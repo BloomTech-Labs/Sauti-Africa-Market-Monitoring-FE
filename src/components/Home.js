@@ -3,8 +3,11 @@ import React from 'react';
 import Footer from './Footer'; 
 
 import '../styles/Home.scss'; 
+import { Progress } from 'reactstrap';
 
 function Home (){
+
+    // This is a work in Progress.
 
     return(
         <div>
