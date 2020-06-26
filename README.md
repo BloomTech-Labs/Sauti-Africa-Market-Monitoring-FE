@@ -2,7 +2,7 @@
 
 The Sauti Market Monitoring application is a data visualization and calculation tool to determine where the crisis hotspots are in East African countries. 
 
-# PROJECT LINKS
+# Project Links
 
 Staging Server: N/A
 Production Server: https://master.d2p16mt6y3bvx5.amplifyapp.com/ (DEPLOYED ON AWS)
@@ -15,7 +15,7 @@ Trello / Notion board:
     Trello board: https://trello.com/b/oMb6Q9Xx/labs24-sauti-africa 
     Notion doc: https://www.notion.so/Sauti-Africa-Market-Monitoring-faea97bc20054ca389f3dcad2f80bf43 
 
-# TECH STACK SUMMARY
+# Tech Stack Summary
 
 Front-End: 
     React
@@ -30,7 +30,7 @@ Data Science:
     Flask
     PostgreSQL
 
-# TEAM MEMBERS
+# Team Members
 
 Web: 
     John Greenberg (Front-end)
@@ -41,8 +41,9 @@ Data Science:
     Jing Qian
     Taylor Curran
 
-# OPEN QUESTIONS / FUTURE FEATURES
+# Open Questions / Future Features
 
+Full Search Query functionality on product page
 Notification feature: notifies the user when a product is in Crisis
 Full mobile responsiveness
 
@@ -52,4 +53,4 @@ The data source is a staging database with several historical years of product p
 
 ## Phase Categorization
 
-Products are sorted into 'Crisis', 'Alert', and 'Stress' levels. 
+Products are sorted into 'Crisis', 'Alert', and 'Stress' levels, according to the ARIMA and ALPS methodologies.
